@@ -1,0 +1,4 @@
+<h6>I am Parent, I receive data from child 1 and send it to child 2.!</h6>
+<app-scenario6-child1 (c2Event)="message=$event"></app-scenario6-child1>
+<app-scenario6-child2 [pData]="message"></app-scenario6-child2>
+

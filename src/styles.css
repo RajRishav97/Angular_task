@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+
+.scenario1{
+    width: 100%;
+    height:100%;
+    background: aqua;
+}
+.scenario2{
+    width: 100%;
+    height:100%;
+    background:ghostwhite;
+}
+.scenario3{
+    width: 100%;
+    height:100%;
+    background:lightblue;
+}
+.scenario4{
+    width: 100%;
+    height:100%;
+    background:lightgreen;
+}
+.scenario5{
+    width: 100%;
+    height:100%;
+    background:lightgray;
+}
+.scenario6{
+    width: 100%;
+    height:100%;
+    background:lightsalmon;
+}
